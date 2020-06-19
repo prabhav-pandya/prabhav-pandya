@@ -126,7 +126,7 @@ h1 {
 
 /* Content */
 .content {
-  background-color: rgb(233, 233, 233);
+  background-color: rgb(218, 235, 255);
   padding: 10px;
 }
 
@@ -142,4 +142,12 @@ h1 {
   .column {
     width: 100%;
   }
+}
+
+.project_title {
+  color: rgb(77, 77, 77);
+}
+
+.project_description {
+  color: rgb(77, 77, 77);
 }

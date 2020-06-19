@@ -75,7 +75,7 @@
 
     <div class="section">
         <div style="padding: 20px; border: 1px solid rgb(255, 255, 255); border-radius: 10px; position: relative;">
-            <img src="./images/prabhavpandya.png" height="200px" id="home-photo">
+            <img src="images/prabhavpandya.png" height="200px" id="home-photo">
             <h5 style="margin-top:10px; color:rgb(84, 6, 87);">Prabhav Pandya</h5>
             <p style="margin-top:10px; color:rgb(84, 6, 87);"><em>Freelancer</em></p>
             <a href="https://www.upwork.com/o/profiles/users/~01098edce15db7fa31/" target="_blank"><img
@@ -84,39 +84,41 @@
     </div>
 
 
+    <div>
+        <h3 style="margin:10px; font-family:Verdana, Geneva, Tahoma, sans-serif; color:rgb(82, 82, 82);"><strong>Recent
+                Projects:</strong>
+        </h3>
+        <div class="row">
+            <div class="column">
+                <div class="content">
+                    <img src="images/chinnikam.jpg" alt="CheeniKam" style="width:100%">
+                    <h3 class='project_title'>ChinniKam</h3>
+                    <p class='project_description'>Made it with an intention of doing my bit by supporting the
+                        #cheenikam
+                        movement but unfortunately
+                        playstore is not approving the app.</p><br>
+                </div>
+            </div>
+            <div class="column" onclick="myhref('https://bit.ly/2LF9PBQ');">
+                <div class="content">
+                    <img src="images/quickfacts.jpg" alt="quickfacts" style="width:100%">
+                    <h3 class='project_title'>QuickFacts</h3>
+                    <p class='project_description'>This app basically tells you your daily news but in a summarised
+                        form. As I was the only person
+                        to handle this app's coding and it's content, I couldn't keep up.</p>
+                </div>
+            </div>
+            <div class="column" onclick="myhref('https://bit.ly/2XbR0vf');">
+                <div class="content">
+                    <img src="images/mypocketflow.jpg" alt="mypocketflow" style="width:100%">
+                    <h3 class='project_title'>MyPocketflow</h3>
+                    <p class='project_description'>Through this app you can basically keep track of your cashflow and
+                        set a budget.</p><br><br><br>
+                </div>
+            </div>
+        </div>
 
-    <div class="row">
-        <div class="column">
-            <div class="content">
-                <img src="mountains.jpg" alt="Mountains" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
-            </div>
-        </div>
-        <div class="column">
-            <div class="content">
-                <img src="lights.jpg" alt="Lights" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
-            </div>
-        </div>
-        <div class="column">
-            <div class="content">
-                <img src="nature.jpg" alt="Nature" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
-            </div>
-        </div>
-        <div class="column">
-            <div class="content">
-                <img src="mountains.jpg" alt="Mountains" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
-            </div>
-        </div>
     </div>
-
-
 
 </body>
 
@@ -193,6 +195,12 @@
 
     // Start the typing effect on load
     _INTERVAL_VAL = setInterval(Type, 100);
+</script>
+
+<script type="text/javascript">
+    function myhref(web) {
+        window.location.href = web;
+    }
 </script>
 
 </html>

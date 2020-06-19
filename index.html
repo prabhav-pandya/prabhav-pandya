@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Home Page</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+        integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+        integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
+        crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link href="index.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap" rel="stylesheet">
+    <style>
+
+    </style>
+</head>
+
+<body>
+
+    <nav class=" navbar-expand-lg navbar navbar-dark bg-primary fixed-top">
+        <a class="navbar-brand" href="#" style="font-family:Oswald;">Prabhav Pandya</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Portfolio</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Extras
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="#">Shopify</a>
+                        <a class="dropdown-item" href="#">YouTube</a>
+                        <a class="dropdown-item" href="#">Fiverr</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Blog</a>
+                </li>
+            </ul>
+            <form class="form-inline my-2 my-lg-0">
+                <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+            </form>
+        </div>
+    </nav>
+
+    <div class="container">
+        <img src="images/head-banner.png" alt="head-banner" class="banner-full" id="top-fill">
+        <div id="typing">
+            <div id="text"></div>
+            <div id="cursor"></div>
+        </div>
+    </div>
+
+
+    <div class="section">
+        <div style="padding: 20px; border: 1px solid rgb(255, 255, 255); border-radius: 10px; position: relative;">
+            <img src="images/prabhavpandya.png" height="200px" id="home-photo">
+            <h5 style="margin-top:10px; color:rgb(84, 6, 87);">Prabhav Pandya</h5>
+            <p style="margin-top:10px; color:rgb(84, 6, 87);"><em>Freelancer</em></p>
+            <a href="https://www.upwork.com/o/profiles/users/~01098edce15db7fa31/" target="_blank"><img
+                    src="images/upwork.png" width="50px"></a>
+        </div>
+    </div>
+
+
+
+    <div class="row">
+        <div class="column">
+            <div class="content">
+                <img src="mountains.jpg" alt="Mountains" style="width:100%">
+                <h3>My Work</h3>
+                <p>Lorem ipsum..</p>
+            </div>
+        </div>
+        <div class="column">
+            <div class="content">
+                <img src="lights.jpg" alt="Lights" style="width:100%">
+                <h3>My Work</h3>
+                <p>Lorem ipsum..</p>
+            </div>
+        </div>
+        <div class="column">
+            <div class="content">
+                <img src="nature.jpg" alt="Nature" style="width:100%">
+                <h3>My Work</h3>
+                <p>Lorem ipsum..</p>
+            </div>
+        </div>
+        <div class="column">
+            <div class="content">
+                <img src="mountains.jpg" alt="Mountains" style="width:100%">
+                <h3>My Work</h3>
+                <p>Lorem ipsum..</p>
+            </div>
+        </div>
+    </div>
+
+
+
+</body>
+
+
+<script>
+
+    var _CONTENT = [
+        "HI, I'M PRABHAV...",
+        "YOU CAN SEE ALL MY PROJECTS HERE...",
+        "EVEN THIS SITE IS ONE OF MY PROJECTS :)",
+        "ENJOY!"
+    ];
+
+    // Current sentence being processed
+    var _PART = 0;
+
+    // Character number of the current sentence being processed 
+    var _PART_INDEX = 0;
+
+    // Holds the handle returned from setInterval
+    var _INTERVAL_VAL;
+
+    // Element that holds the text
+    var _ELEMENT = document.querySelector("#text");
+
+    // Cursor element 
+    var _CURSOR = document.querySelector("#cursor");
+
+    // Implements typing effect
+    function Type() {
+        // Get substring with 1 characater added
+        var text = _CONTENT[_PART].substring(0, _PART_INDEX + 1);
+        _ELEMENT.innerHTML = text;
+        _PART_INDEX++;
+
+        // If full sentence has been displayed then start to delete the sentence after some time
+        if (text === _CONTENT[_PART]) {
+            // Hide the cursor
+            _CURSOR.style.display = 'none';
+
+            clearInterval(_INTERVAL_VAL);
+            setTimeout(function () {
+                _INTERVAL_VAL = setInterval(Delete, 50);
+            }, 1000);
+        }
+    }
+
+    // Implements deleting effect
+    function Delete() {
+        // Get substring with 1 characater deleted
+        var text = _CONTENT[_PART].substring(0, _PART_INDEX - 1);
+        _ELEMENT.innerHTML = text;
+        _PART_INDEX--;
+
+        // If sentence has been deleted then start to display the next sentence
+        if (text === '') {
+            clearInterval(_INTERVAL_VAL);
+
+            // If current sentence was last then display the first one, else move to the next
+            if (_PART == (_CONTENT.length - 1))
+                _PART = 0;
+            else
+                _PART++;
+
+            _PART_INDEX = 0;
+
+            // Start to display the next sentence after some time
+            setTimeout(function () {
+                _CURSOR.style.display = 'inline-block';
+                _INTERVAL_VAL = setInterval(Type, 100);
+            }, 200);
+        }
+    }
+
+    // Start the typing effect on load
+    _INTERVAL_VAL = setInterval(Type, 100);
+</script>
+
+</html>

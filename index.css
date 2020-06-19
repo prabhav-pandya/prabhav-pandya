@@ -1,0 +1,145 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+  padding: 0px;
+  margin: 0px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  position: relative;
+  left: -10px;
+  width: 110% !important;
+  text-align: center;
+  display: inline-block;
+  color: white;
+}
+
+.banner-full {
+  height: 100vh;
+  width: 100%;
+  object-fit: cover;
+}
+
+#typing {
+  position: absolute;
+  width: 95%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+#text {
+  font-size: 8vh;
+  font-family: "Oswald", sans-serif;
+  display: inline-block;
+  vertical-align: middle;
+  color: rgb(212, 245, 255);
+  opacity: 0.9;
+  letter-spacing: 2px;
+}
+
+@media only screen and (max-width: 1000px) {
+  #text {
+    font-size: 4vh;
+  }
+}
+
+#cursor {
+  display: inline-block;
+  vertical-align: middle;
+  width: 3px;
+  height: 50px;
+  background-color: rgb(255, 174, 0);
+  animation: blink 0.75s step-end infinite;
+}
+
+@keyframes blink {
+  from,
+  to {
+    background-color: transparent;
+  }
+  50% {
+    background-color: rgb(255, 145, 0);
+  }
+}
+
+.section {
+  margin-top: 50px;
+  padding: 30px;
+  vertical-align: middle;
+  text-align: center;
+  width: 100%;
+  background-color: rgb(201, 160, 255);
+}
+
+#home-photo {
+  position: relative;
+  display: inline-block;
+  border-radius: 50%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Center website */
+.main {
+  max-width: 1000px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 50px;
+  word-break: break-all;
+}
+
+.row {
+  margin: 8px -16px;
+}
+
+/* Add padding BETWEEN each column (if you want) */
+.row,
+.row > .column {
+  padding: 8px;
+}
+
+/* Create four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 25%;
+}
+
+/* Clear floats after rows */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Content */
+.content {
+  background-color: rgb(233, 233, 233);
+  padding: 10px;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 900px) {
+  .column {
+    width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}

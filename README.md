@@ -19,5 +19,6 @@
 ## 📈 My Stats
 [![Prabhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhav-pandya&hide=issues&show_icons=true&theme=synthwave)](https://github.com/prabhav-pandya)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=prabhav-pandya)](https://github.com/prabhav-pandya)
+[![Langs](https://github-readme-stats.vercel.app/api/wakatime?username=prabhav-pandya)](https://github.com/prabhav-pandya)
+
 

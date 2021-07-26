@@ -16,8 +16,6 @@
 <a href="https://www.android.com/"> ![Android](https://img.shields.io/badge/Android-lightgreen?style=for-the-badge&logo=android&logoColor=darkgreen)</a>
 
 <br><br>
-<p>
-  <a href="https://github.com/prabhav-pandya">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhav-pandya)](https://github.com/anuraghazra/github-readme-stats)
-  </a>
-</p>
+
+[![Prabhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhav-pandya)](https://github.com/prabhav-pandya)
+

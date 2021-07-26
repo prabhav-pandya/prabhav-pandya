@@ -20,4 +20,10 @@
 ## 📈 My Stats
 [![Prabhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhav-pandya&hide=issues&show_icons=true&theme=synthwave)](https://github.com/prabhav-pandya)
 
+<hr>
+
+<div style="text-align:center;">
+  <img src="https://media.giphy.com/media/Y00kGZxsHEixxzAkhv/giphy.gif" width="40" height="40" />
+</div>
+
 

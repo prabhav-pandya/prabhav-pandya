@@ -23,7 +23,7 @@
 <hr>
 
 <div style="text-align:center;">
-  <img src="https://media.giphy.com/media/Y00kGZxsHEixxzAkhv/giphy.gif" width="40" height="40" />
+  <img src="https://media.giphy.com/media/Y00kGZxsHEixxzAkhv/giphy.gif" width="200"/>
 </div>
 
 

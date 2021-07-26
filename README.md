@@ -1,6 +1,6 @@
 ![banner](https://github.com/prabhav-pandya/prabhavpandya/blob/master/Banner.PNG)
 
-## 🤹‍♀️ My Skills
+## 🏂 My Skills
 
 <a href="https://www.python.org/"> ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=darkgreen)</a>
 <a href="https://www.w3schools.com/c/"> ![C](https://img.shields.io/badge/C%20Language-purple?style=for-the-badge&logo=c&logoColor=white)</a>

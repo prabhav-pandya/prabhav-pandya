@@ -17,5 +17,5 @@
 
 <br><br>
 
-[![Prabhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhav-pandya&hide=issues&show_icons=true)](https://github.com/prabhav-pandya)
+[![Prabhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhav-pandya&hide=issues&show_icons=true&theme=synthwave)](https://github.com/prabhav-pandya)
 

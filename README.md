@@ -18,7 +18,6 @@
 <br><br>
 <p>
   <a href="https://github.com/prabhav-pandya">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhav-pandya)]
-
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhav-pandya)](https://github.com/anuraghazra/github-readme-stats)
   </a>
 </p>

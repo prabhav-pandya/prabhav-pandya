@@ -22,8 +22,8 @@
 
 <hr>
 
-<div style="align:center">
+<p style="align:center">
   <img src="https://media.giphy.com/media/Y00kGZxsHEixxzAkhv/giphy.gif" width="200"/>
-</div>
+</p>
 
 

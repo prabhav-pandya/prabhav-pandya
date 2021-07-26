@@ -3,7 +3,7 @@
 ## 🏂 My Skills
 
 <a href="https://www.python.org/"> ![Python](https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python&logoColor=white)</a>
-<a href="https://www.python.org/"> ![Solidity](https://img.shields.io/badge/Solidity-lightblue?style=for-the-badge&logo=Solidity&logoColor=blue)</a>
+<a href="https://soliditylang.org/"> ![Solidity](https://img.shields.io/badge/Solidity-lightblue?style=for-the-badge&logo=Solidity&logoColor=blue)</a>
 <a href="https://www.w3schools.com/c/"> ![C](https://img.shields.io/badge/C%20Language-pink?style=for-the-badge&logo=c&logoColor=eb34a1)</a>
 <a href="https://www.w3schools.com/cpp/"> ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
 <a href="https://www.java.com/en/"> ![Java](https://img.shields.io/badge/Java-831299?style=for-the-badge&logo=java&logoColor=white)</a>

@@ -18,8 +18,9 @@
 
 <br><br>
 ## 📈 My Stats
+<p align="center">
 [![Prabhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhav-pandya&hide=issues&show_icons=true&theme=synthwave)](https://github.com/prabhav-pandya)
-
+</p>
 <hr>
 
 <p align="center">

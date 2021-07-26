@@ -1,6 +1,6 @@
 ![banner](https://github.com/prabhav-pandya/prabhavpandya/blob/master/Banner.PNG)
 
-## :toolbox: My Skill
+## :toolbox: My Skills
 
 <a href="https://www.python.org/"> ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=darkgreen)</a>
 <a href="https://www.w3schools.com/c/"> ![C](https://img.shields.io/badge/C%20Language-purple?style=for-the-badge&logo=c&logoColor=white)</a>
@@ -17,5 +17,5 @@
 
 <br><br>
 
-[![Prabhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhav-pandya&hide=issues)](https://github.com/prabhav-pandya)
+[![Prabhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhav-pandya&hide=issues&show_icons=true)](https://github.com/prabhav-pandya)
 

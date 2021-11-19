@@ -17,9 +17,14 @@
 <a href="https://www.android.com/"> ![Android](https://img.shields.io/badge/Android-lightgreen?style=for-the-badge&logo=android&logoColor=darkgreen)</a>
 
 <br><br>
-## 📈 My Stats
-[![Prabhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhav-pandya&hide=issues&show_icons=true&theme=synthwave)](https://github.com/prabhav-pandya)
-<hr>
+## 📈 My Stats 
+<p align = "center">
+  <a href="https://github.com/prabhav-pandya">
+        <img title="Streak" alt="Prabhav's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhav-pandya&theme=synthwave&hide_border=true&stroke=0000&background=0D1117"/>
+    </a>
+  <a href="https://github.com/prabhav-pandya"><img alt="Prabhav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prabhav-pandya&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0D1117" /></a>
+</p>
+<br>
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0CRCxtNyUteI6hI4/giphy.gif" width="100%" height="100px"/>

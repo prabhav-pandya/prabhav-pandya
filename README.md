@@ -1,4 +1,4 @@
-![banner](https://github.com/prabhav-pandya/prabhav-pandya/blob/master/Github%20banner.gif)
+![banner](https://github.com/prabhav-pandya/prabhav-pandya/blob/master/Github%20banner%20New.gif)
 
 ## 🏂 My Skills
 

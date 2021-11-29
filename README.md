@@ -5,6 +5,9 @@
 <a href="https://www.java.com/en/"> ![Java](https://img.shields.io/badge/Java-831299?style=for-the-badge&logo=java&logoColor=white)</a>
 <a href="https://www.python.org/"> ![Python](https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python&logoColor=white)</a>
 <a href="https://www.javascript.com/"> ![Javascript](https://img.shields.io/badge/JavaScript-fa360a?style=for-the-badge&logo=javascript&logoColor=white)</a>
+<a href="https://jupyter.org/"> ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)</a>
+<a href="https://numpy.org/"> ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)</a>
+<a href="https://pandas.pydata.org/"> ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)</a>
 <a href="https://soliditylang.org/"> ![Solidity](https://img.shields.io/badge/Solidity-lightblue?style=for-the-badge&logo=Solidity&logoColor=blue)</a>
 <a href="https://www.w3schools.com/c/"> ![C](https://img.shields.io/badge/C%20Language-pink?style=for-the-badge&logo=c&logoColor=eb34a1)</a>
 <a href="https://www.r-project.org/"> ![R](https://img.shields.io/badge/R%20Language-cf0e7f?style=for-the-badge&logo=r&logoColor=white)</a>

@@ -17,6 +17,7 @@
 <a href="https://www.tensorflow.org/"> ![tensorflow](https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=white)</a>
 <a href="https://git-scm.com/"> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)</a>
 <a href="https://www.android.com/"> ![Android](https://img.shields.io/badge/Android-lightgreen?style=for-the-badge&logo=android&logoColor=darkgreen)</a>
+<a href="https://www.linux.org/"> ![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black)</a>
 
 <br><br>
 ## 📈 My Stats 
